@@ -1,0 +1,18 @@
+{
+  "status": "OK",
+  "statusCode": 200,
+  "data": [
+    {
+      "id": 1,
+      "name": "admin",
+      "username": "admin",
+      "password": "$2a$10$eHkQIr.p4zC74ICfQ1Xfver0B0JHOeM9ki.LBlm3TpE5hzT/VH.Yy",
+      "email": "admin@gmail.com",
+      "role": "USER_ADMIN",
+      "attempts": 3,
+      "status": "NONE",
+      "enabled": true,
+      "activated": true
+    }
+  ]
+}
